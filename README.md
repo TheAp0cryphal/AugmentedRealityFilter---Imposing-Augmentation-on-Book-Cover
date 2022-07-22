@@ -7,6 +7,8 @@ https://user-images.githubusercontent.com/70075553/180334468-c0a89cc5-c140-4a47-
 
 https://user-images.githubusercontent.com/70075553/180334483-7aa4f375-1e79-49ed-a960-652f46076de6.mp4
 
+<br>
+
 ## Procedure of Figuring out SURF VS BRIEF, Understanding Image Stitching and Ransac
 
 ![Procedure (3)](https://user-images.githubusercontent.com/70075553/180335578-c07db849-f9e9-404a-9784-945c3c5c3b27.jpg)
